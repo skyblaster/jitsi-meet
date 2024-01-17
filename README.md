@@ -17,6 +17,6 @@ Clone this repository to `~/.config/containers/systemd/`
 
 Follow the instructions [here](https://jitsi.github.io/handbook/docs/devops-guide/devops-guide-docker) until step 5, then carry on with the rest of the instructions below.
 
-Copy the `.env` file you created in steps 2 and 3 to `~/.config/containers/systemd/jitsi/`
+Copy the `.env` file you created in steps 2 and 3 to `~/.config/containers/systemd/jitsi-meet/`
 
 Now reboot the host to automatically pull the images and start the containers
